@@ -15,10 +15,10 @@ Install Gulp locally:
 
 npm install --save-dev gulp
 
-
 Install Gulp modules:
 
 sudo npm install gulp-sass --save-dev
+
 sudo npm install del --save-dev
 sudo npm install gulp-util --save-dev
 sudo npm install gulp-uglify --save-dev
