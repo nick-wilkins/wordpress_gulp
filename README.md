@@ -9,13 +9,13 @@ src
  - scrtips
 located within in
 
-# Install Gulp Modules
-===========================
+#£ Install Gulp Modules
+
 Install Gulp locally:
 
 npm install --save-dev gulp
 
-===========================
+
 Install Gulp modules:
 
 sudo npm install gulp-sass --save-dev
