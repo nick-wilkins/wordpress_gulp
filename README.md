@@ -9,7 +9,7 @@ src
  - scrtips
 located within in
 
-#£ Install Gulp Modules
+## Install Gulp Modules
 
 Install Gulp locally:
 
