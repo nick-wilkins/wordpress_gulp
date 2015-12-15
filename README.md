@@ -1,5 +1,15 @@
 # Wordpress Gulp Setup
 
+## Assumptions
+Wordpress theme has folder name '/default/' (can change in gulp file)
+
+Then has:
+src
+ - styles
+ - scrtips
+located within in
+
+# Install Gulp Modules
 ===========================
 Install Gulp locally:
 
